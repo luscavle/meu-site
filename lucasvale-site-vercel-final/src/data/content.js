@@ -124,7 +124,7 @@ export const projects = [
 ];
 
 export const aboutImage = {
-  src: "/Lucas.jpg",
+  src: "/lucas.jpg",
   alt: "Pessoa usando headset de Realidade Virtual",
 };
 
