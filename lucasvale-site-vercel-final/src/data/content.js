@@ -124,7 +124,7 @@ export const projects = [
 ];
 
 export const aboutImage = {
-  src: "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=1080&h=1080&q=80",
+  src: "https://drive.google.com/uc?export=view&id=1-wcRgLJnyxyfrFIzTzrxE8umNJx5r3Xu",
   alt: "Pessoa usando headset de Realidade Virtual",
 };
 
