@@ -2,24 +2,24 @@ import { BookOpen, Layers3, Gamepad2, Globe2 } from "lucide-react";
 
 export const profile = {
   name: "Lucas Vale",
-  role: "Professor e pesquisador em Tecnologias Educacionais",
+  role: "Professor e pesquisador em História e Tecnologias Educacionais",
   location: "Natal, RN · Bristol, UK",
-  email: "lucsvale@gmail.com",
+  email: "lucas.vale.103@ufrn.edu.br",
   shortBio:
     "Doutorando em Inovação em Tecnologias Educacionais, professor de História e Letramento Digital, com atuação em Realidade Virtual, jogos educacionais, humanidades digitais e ensino de História.",
   tags: ["Realidade Virtual", "Humanidades Digitais", "Jogos Educacionais", "Ensino de História"],
 };
 
 export const profileLinks = [
-  { label: "Lattes", href: "#" },
-  { label: "Google Scholar", href: "#" },
-  { label: "ORCID", href: "#" },
-  { label: "LinkedIn", href: "#" },
-  { label: "Instagram", href: "#" },
+  { label: "Lattes", href: "http://lattes.cnpq.br/8698223241960222" },
+  { label: "Google Scholar", href: "https://scholar.google.com/citations?user=cDiGLwMAAAAJ&hl=pt-BR" },
+  { label: "ORCID", href: "https://orcid.org/0009-0003-3261-8139" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/lucas-vale-vr/" },
+  { label: "Instagram", href: "https://www.instagram.com/prof.lucasvale/" },
 ];
 
 export const stats = [
-  { value: "10+", label: "anos em educação" },
+  { value: "8+", label: "anos em educação" },
   { value: "VR/XR", label: "foco de pesquisa" },
   { value: "PhD", label: "doutorado em andamento" },
   { value: "ADE", label: "Apple Distinguished Educator" },
@@ -30,19 +30,19 @@ export const expertise = [
     icon: Layers3,
     title: "Tecnologias imersivas",
     description:
-      "Pesquisa e desenvolvimento de experiências em Realidade Virtual, Aumentada e Mista para contextos educacionais e culturais.",
+      "Pesquisa e desenvolvimento de experiências em Realidade Virtual para contextos educacionais.",
   },
   {
     icon: Gamepad2,
     title: "Jogos e aprendizagem",
     description:
-      "Criação de jogos educacionais, narrativas interativas e experiências baseadas em investigação, autoria e participação ativa.",
+      "Criação de jogos educacionais e experiências de aprendizagem gamificadas.",
   },
   {
     icon: BookOpen,
     title: "Ensino de História",
     description:
-      "Uso de fontes, patrimônios, narrativas e tecnologias digitais para construir experiências significativas sobre o passado.",
+      "Uso de metodologias ativas e tecnologias educacionais para promover uma educação significativa.",
   },
   {
     icon: Globe2,
@@ -54,12 +54,12 @@ export const expertise = [
 
 export const publications = [
   {
-    type: "Artigo",
-    title: "Experiencing the Past in Virtual Reality: Possibilities and Challenges for Education",
-    venue: "The European Conference on Education — ECE2026",
+    type: "Journal article",
+    title: "Virtual reality platforms in education: a systematic literature review on features, pedagogical uses, and authoring potential",
+    venue: "Revista Principia",
     year: "2026",
     description:
-      "Discussão sobre as possibilidades e limites da Realidade Virtual para reconfigurar o passado como experiência em contextos educacionais.",
+      "This article presents a Systematic Literature Review (SLR) on Virtual Reality (VR) platforms in education, covering studies published between 2022 and 2024. The objective was to identify functionalities, pedagogical uses, authoring potential, and the learning theories underpinning these practices [...].",
      link: "https://doi.org/10.18265/2447-9187a2026id9240"
   },
   {
