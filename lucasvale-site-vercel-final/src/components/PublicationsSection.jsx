@@ -23,9 +23,14 @@ export default function PublicationsSection({ page }) {
                     <p className="mt-2 text-sm text-slate-100/80">{paper.venue}</p>
                     <p className="mt-4 max-w-4xl leading-7 text-slate-300">{paper.description}</p>
                   </div>
-                  <button className="inline-flex items-center justify-center gap-2 rounded-full border border-white/20 bg-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/20">
-                    {page.ui.details} <ArrowUpRight size={16} />
-                  </button>
+                 <a
+  href={paper.link}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex items-center justify-center gap-2 rounded-full border border-white/20 bg-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/20"
+>
+  {page.ui.details} <ArrowUpRight size={16} />
+</a>
                 </div>
               </GlassCard>
             </motion.article>
