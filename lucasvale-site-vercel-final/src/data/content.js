@@ -63,20 +63,31 @@ export const publications = [
      link: "https://doi.org/10.18265/2447-9187a2026id9240"
   },
   {
-    type: "Revisão Sistemática",
-    title: "Virtual Reality Experiences in Educational and Cultural Contexts",
-    venue: "Manuscrito em desenvolvimento",
-    year: "2026",
+    type: "Conference paper",
+    title: "Ethical Considerations in Research on Virtual Reality Games — A Systematic Literature Review",
+    venue: "27th Symposium on Virtual and Augmented Reality (SVR)",
+    year: "2025",
     description:
-      "Mapeamento de tendências, abordagens e desafios em experiências de Realidade Virtual relacionadas ao passado.",
+      "This systematic literature review aimed to investigate how ethics has been addressed in studies on virtual reality (VR) games. The goal was to contribute to a deeper understanding of the ethical implications of these games and provide insights for establishing guidelines that promote more responsible practices in the field [...]. ",
+    link: "https://doi.org/10.1109/SVR67689.2025.00049"
   },
   {
-    type: "Produto educacional",
-    title: "A Última Canção de Birkenau",
-    venue: "RPG educacional para o ensino de História",
-    year: "2021",
+    type: "Conference proceedings",
+    title: "Educational Virtual Reality Games with a Decolonial Focus",
+    venue: "XXVII Simpósio de Realidade Virtual e Aumentada (SVR 2025)",
+    year: "2025",
     description:
-      "Jogo narrativo voltado ao ensino do Porrajmos, o genocídio cigano durante o nazismo, com livro do jogador e guia docente.",
+      "This paper presents the ongoing development of “Guardião do Seridó”, a narrative-driven Virtual Reality game for History education. Inspired by foundation myths from northeastern Brazil and Otxukayana cosmologies, the game proposes a decolonial reimagining of historical narratives by placing the player in the role of an indigenous character defending their territory [...].",
+  link: "https://doi.org/10.5753/svr_estendido.2025.13831"
+  },
+   {
+    type: "Conference paper",
+    title: "Jogos de Realidade Virtual para a Educação: Uma Revisão Sistemática da Literatura em Teses e Dissertações Brasileiras",
+    venue: "XXVII Simpósio de Realidade Virtual e Aumentada (SVR 2025)",
+    year: "2025",
+    description:
+      "Esta pesquisa teve como objetivo realizar uma Revisão Sistemática da Literatura (RSL) para mapear e analisar teses e dissertações brasileiras (2019–2024) sobre a criação ou aplicação de jogos em RV na educação, identificando áreas de ensino, metodologias, desafios e impactos [...].",
+  link: "https://doi.org/10.5753/sbgames.2025.10135"
   },
 ];
 
