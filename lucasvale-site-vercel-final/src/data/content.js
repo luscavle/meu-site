@@ -60,7 +60,7 @@ export const publications = [
     year: "2026",
     description:
       "Discussão sobre as possibilidades e limites da Realidade Virtual para reconfigurar o passado como experiência em contextos educacionais.",
-     link: "https://orcid.org/0009-0003-3261-8139#:~:text=10.18265/2447%2D9187a2026id9240"
+     link: "https://doi.org/10.18265/2447-9187a2026id9240"
   },
   {
     type: "Revisão Sistemática",
