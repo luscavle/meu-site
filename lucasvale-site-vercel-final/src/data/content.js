@@ -124,7 +124,7 @@ export const projects = [
 ];
 
 export const aboutImage = {
-  src: "https://drive.google.com/uc?export=view&id=1-wcRgLJnyxyfrFIzTzrxE8umNJx5r3Xu",
+  src: "/Lucas.jpg",
   alt: "Pessoa usando headset de Realidade Virtual",
 };
 
