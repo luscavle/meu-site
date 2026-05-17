@@ -93,24 +93,24 @@ export const publications = [
 
 export const timeline = [
   {
-    period: "2026",
-    title: "Doutorado sanduíche e colaboração internacional",
-    text: "Atuação vinculada à University of Bristol, com foco em Realidade Virtual, educação, jogos e humanidades digitais.",
+    period: "2024 - Atual",
+    title: "Doutorado em Inovação em Tecnologias Educacionais — UFRN / University of Bristol",
+    text: "Doutorado em Inovação em Tecnologias Educacionais pelo PPgITE/IMD/UFRN, com período sanduíche como Visiting Research Student na University of Bristol.",
   },
   {
-    period: "2024 — atual",
-    title: "Doutorado em Inovação em Tecnologias Educacionais",
-    text: "Pesquisa sobre design de jogos em Realidade Virtual para o ensino de História na educação básica.",
+    period: "2016/2017 - 2020-2021",
+    title: "Mestrados - UFPB & UFRN ",
+    text: "Mestrado em Antropologia pela UFPB e em Inovação em Tecnologias Educacionais pela UFRN.",
   },
   {
-    period: "2023",
-    title: "Apple Distinguished Educator",
-    text: "Reconhecimento pelo uso criativo e inovador de tecnologias digitais em práticas pedagógicas.",
+    period: "2025",
+    title: "Especialização em Metodologias Ativas - FABRAS",
+    text: "Formação complementar em Metodologias Ativas para a aprendizagem.",
   },
   {
-    period: "2021",
-    title: "Mestrado e produto educacional",
-    text: "Desenvolvimento de um RPG educativo sobre o Porrajmos como recurso para o ensino de História.",
+    period: "2012-2015",
+    title: "Graduação em História — UFRN",
+    text: "Formação inicial em História Licenciatura pela UFRN.",
   },
 ];
 
@@ -259,15 +259,15 @@ export function getPageContent(isPt) {
       contact: isPt ? "Contato" : "Contact",
       openMenu: isPt ? "Abrir menu" : "Open menu",
       aboutEyebrow: isPt ? "Sobre" : "About",
-      aboutTitle: isPt ? "Uma trajetória entre escola, pesquisa e criação digital." : "A trajectory across school, research, and digital creation.",
-      aboutText: isPt ? "Minha atuação articula prática docente, investigação acadêmica e desenvolvimento de recursos digitais para educação." : "My work connects teaching practice, academic research, and the development of digital resources for education.",
+      aboutTitle: isPt ? "Perfil acadêmico e profissional" : "Academic and professional profile",
+      aboutText: isPt ? "Atuação na educação básica, na pesquisa acadêmica e no desenvolvimento de projetos com tecnologias digitais e experiências imersivas." : "Work in basic education, academic research and the development of projects involving digital technologies and immersive experiences.",
       academicProfile: isPt ? "Perfil acadêmico" : "Academic profile",
       academicText: isPt
         ? "Sou professor de História e Letramento Digital, graduado pela Universidade Federal do Rio Grande do Norte (UFRN), com mestrados em Antropologia pela Universidade Federal da Paraíba (PPGA/UFPB) e em Inovação em Tecnologias Educacionais pelo PPgITE/IMD/UFRN. Atualmente, sou doutorando em Inovação em Tecnologias Educacionais e realizo doutorado sanduíche como Visiting Research Student na University of Bristol, no Reino Unido, junto ao Department of Classics and Ancient History e ao Bristol Digital Game Lab (BDGL). Atuo como professor-pesquisador na educação básica, articulando ensino de História, tecnologias imersivas, jogos digitais e metodologias ativas. Minha pesquisa investiga como experiências imersivas em Realidade Virtual representam o passado e quais potencialidades e limites apresentam para a interpretação histórica de estudantes, com atenção especial aos passados sensíveis."
   : "I am a History and Digital Literacy teacher, graduated from the Federal University of Rio Grande do Norte (UFRN), with Master’s degrees in Anthropology from the Federal University of Paraíba (PPGA/UFPB) and in Innovation in Educational Technologies from PPgITE/IMD/UFRN. I am currently a PhD candidate in Innovation in Educational Technologies and undertaking a sandwich PhD as a Visiting Research Student at the University of Bristol, United Kingdom, linked to the Department of Classics and Ancient History and the Bristol Digital Game Lab (BDGL). I work as a teacher-researcher in basic education, articulating History education, immersive technologies, digital games, and active learning methodologies. My research investigates how immersive Virtual Reality experiences represent the past and what possibilities and limits they present for students’ historical interpretation, with particular attention to sensitive pasts.",
-      researchEyebrow: isPt ? "Pesquisa" : "Research",
-      researchTitle: isPt ? "Interesses que conectam tecnologia, cultura e formação humana." : "Research interests connecting technology, culture, and education.",
-      researchText: isPt ? "Meu trabalho parte da ideia de que experiências digitais podem ser espaços de investigação, memória, criação e reflexão crítica." : "My work starts from the idea that digital experiences can become spaces for inquiry, memory, creation, and critical reflection.",
+      researchEyebrow: isPt ? "Formação acadêmica" : "Academic background",
+      researchTitle: isPt ? "Graduação, pós-graduação e experiência internacional." : "Undergraduate studies, graduate degrees and international experience.",
+      researchText: isPt ? "Síntese da formação universitária, reunindo graduação, especialização, mestrados, doutorado e período de pesquisa no exterior." : "A concise overview of university education, including undergraduate studies, specialisation, master’s degrees, doctoral research and a research period abroad.",
       publicationsEyebrow: isPt ? "Publicações" : "Publications",
       publicationsTitle: isPt ? "Artigos, revisões e produções acadêmicas." : "Articles, reviews, and academic work.",
       publicationsText: isPt ? "Uma seleção inicial para divulgar trabalhos, apresentações e produtos educacionais. Substitua os textos e links pelos dados finais de cada publicação." : "An initial selection for sharing papers, presentations, and educational products. Replace the texts and links with the final data for each publication.",
