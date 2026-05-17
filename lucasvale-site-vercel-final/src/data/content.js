@@ -95,7 +95,7 @@ export const timeline = [
   {
     period: "2024 - Atual",
     title: "Doutorado e Experiência no Exterior",
-    text: "Doutorado em Inovação em Tecnologias Educacionais pelo PPgITE/IMD/UFRN, com período sanduíche como Visiting Research Student na University of Bristol.",
+    text: "Doutorado em Inovação em Tecnologias Educacionais pelo PPgITE/IMD/UFRN, com período sanduíche como Visiting Research Student na University of Bristol, no Reino Unido.",
   },
   {
     period: "2016 - 2017 / 2020 - 2021",
@@ -215,7 +215,7 @@ export function getPageContent(isPt) {
           {
             period: "2024 – Present",
             title: "Doctoral Research and International Experience",
-            text: "PhD candidate in Innovation in Educational Technologies at PPgITE/IMD/UFRN, with a visiting research period at the University of Bristol as a Visiting Research Student.",
+            text: "PhD candidate in Innovation in Educational Technologies at PPgITE/IMD/UFRN, with a visiting research period at the University of Bristol (UK) as a Visiting Research Student.",
           },
           {
             period: "2016 – 2017 / 2020 – 2021",
