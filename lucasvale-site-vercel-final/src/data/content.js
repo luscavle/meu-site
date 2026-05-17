@@ -94,23 +94,23 @@ export const publications = [
 export const timeline = [
   {
     period: "2024 - Atual",
-    title: "Doutorado em Inovação em Tecnologias Educacionais — UFRN / University of Bristol",
+    title: "Doutorado e Experiência no Exterior",
     text: "Doutorado em Inovação em Tecnologias Educacionais pelo PPgITE/IMD/UFRN, com período sanduíche como Visiting Research Student na University of Bristol.",
   },
   {
     period: "2016/2017 - 2020-2021",
-    title: "Mestrados - UFPB & UFRN ",
-    text: "Mestrado em Antropologia pela UFPB e em Inovação em Tecnologias Educacionais pela UFRN.",
+    title: "Mestrados",
+    text: "Mestrado em Antropologia pela Universidade Federal da Paraíba e em Inovação em Tecnologias Educacionais pela Universidade Federal do Rio Grande do Norte.",
   },
   {
     period: "2025",
-    title: "Especialização em Metodologias Ativas - FABRAS",
-    text: "Formação complementar em Metodologias Ativas para a aprendizagem.",
+    title: "Especialização",
+    text: "Especialização em Metodologias Ativas para a aprendizagem pela FABRAS.",
   },
   {
     period: "2012-2015",
-    title: "Graduação em História — UFRN",
-    text: "Formação inicial em História Licenciatura pela UFRN.",
+    title: "Graduação",
+    text: "Graduação em História Licenciatura pela Universidade Federal do Rio Grande do Norte.",
   },
 ];
 
