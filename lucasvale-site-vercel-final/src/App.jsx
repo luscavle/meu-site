@@ -22,6 +22,7 @@ export default function App() {
 
   const isPt = lang === "pt";
   const page = getPageContent(isPt);
+  console.log(page.experience);
 
   const nav = useMemo(
     () => [
