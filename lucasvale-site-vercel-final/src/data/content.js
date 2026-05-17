@@ -51,7 +51,40 @@ export const expertise = [
       "Interseção entre cultura, memória, patrimônio, pesquisa acadêmica e produção digital em ambientes conectados.",
   },
 ];
-
+const experience = [
+  {
+    institution: "Maple Bear Natal",
+    role: isPt ? "Professor de História" : "History Teacher",
+    period: isPt ? "2022 — Atual" : "2022 — Present",
+    description: isPt
+      ? "Atuação no ensino de História com integração de tecnologias digitais, metodologias ativas e projetos interdisciplinares."
+      : "History teaching with the integration of digital technologies, active learning methodologies, and interdisciplinary projects.",
+  },
+  {
+    institution: "Escola MOV / Lápis de Cor",
+    role: isPt ? "Professor de História e Letramento Digital" : "History and Digital Literacy Teacher",
+    period: "2019 — 2026",
+    description: isPt
+      ? "Desenvolvimento de práticas pedagógicas voltadas ao ensino de História, cultura digital, pensamento crítico e criação de projetos educacionais com tecnologias digitais."
+      : "Development of pedagogical practices focused on History teaching, digital culture, critical thinking, and educational projects with digital technologies.",
+  },
+  {
+    institution: "Z26 Meta Educação",
+    role: "Apple Professional Learning Specialist",
+    period: "2022 — 2024",
+    description: isPt
+      ? "Formação de educadores e apoio a instituições no uso pedagógico de tecnologias Apple e metodologias ativas."
+      : "Teacher training and institutional support for the pedagogical use of Apple technologies and active learning methodologies.",
+  },
+  {
+    institution: "Recanto Desenvolvimento",
+    role: isPt ? "Professor de Consciência Digital" : "Digital Awareness Teacher",
+    period: "2021 — 2023",
+    description: isPt
+      ? "Desenvolvimento de atividades voltadas à cidadania digital, segurança online e uso ético da tecnologia com crianças e jovens."
+      : "Development of activities focused on digital citizenship, online safety, and the ethical use of technology with children and young people.",
+  },
+];
 export const publications = [
   {
     type: "Journal article",
@@ -268,6 +301,11 @@ export function getPageContent(isPt) {
       researchEyebrow: isPt ? "Formação acadêmica" : "Academic background",
       researchTitle: isPt ? "Graduação, pós-graduação e experiência internacional." : "Undergraduate studies, graduate degrees and international experience.",
       researchText: isPt ? "Síntese da formação universitária, reunindo graduação, especialização, mestrados, doutorado e período de pesquisa no exterior." : "A concise overview of university education, including undergraduate studies, specialisation, master’s degrees, doctoral research and a research period abroad.",
+      experienceEyebrow: isPt ? "Experiência" : "Experience",
+experienceTitle: isPt ? "Experiência profissional" : "Professional experience",
+experienceText: isPt
+  ? "Atuação em ensino de História, Letramento Digital, formação de educadores e projetos com tecnologias educacionais."
+  : "Experience in History teaching, Digital Literacy, teacher training, and educational technology projects.",
       publicationsEyebrow: isPt ? "Publicações" : "Publications",
       publicationsTitle: isPt ? "Artigos, revisões e produções acadêmicas." : "Articles, reviews, and academic work.",
       publicationsText: isPt ? "Uma seleção inicial para divulgar trabalhos, apresentações e produtos educacionais. Substitua os textos e links pelos dados finais de cada publicação." : "An initial selection for sharing papers, presentations, and educational products. Replace the texts and links with the final data for each publication.",
