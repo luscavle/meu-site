@@ -98,7 +98,7 @@ export const timeline = [
     text: "Doutorado em Inovação em Tecnologias Educacionais pelo PPgITE/IMD/UFRN, com período sanduíche como Visiting Research Student na University of Bristol.",
   },
   {
-    period: "2016/2017 - 2020-2021",
+    period: "2016-2017 / 2020-2021",
     title: "Mestrados",
     text: "Mestrado em Antropologia pela Universidade Federal da Paraíba e em Inovação em Tecnologias Educacionais pela Universidade Federal do Rio Grande do Norte.",
   },
