@@ -6,6 +6,7 @@ import ContactSection from "./components/ContactSection";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import ProjectsSection from "./components/ProjectsSection";
+import ExperienceSection from "./components/ExperienceSection"
 import PublicationsSection from "./components/PublicationsSection";
 import ResearchSection from "./components/ResearchSection";
 import { getPageContent } from "./data/content";
@@ -76,6 +77,7 @@ export default function App() {
       <Hero heroY={heroY} isPt={isPt} lang={lang} page={page} scrollTo={scrollTo} />
       <AboutSection page={page} />
       <ResearchSection page={page} />
+      <ExperienceSection page={page} />
       <PublicationsSection page={page} />
       <ProjectsSection page={page} />
       <ContactSection page={page} />
