@@ -213,24 +213,24 @@ export function getPageContent(isPt) {
       ? timeline
       : [
           {
-            period: "2026",
-            title: "Sandwich PhD and international collaboration",
-            text: "Work linked to the University of Bristol, focusing on Virtual Reality, education, games, and digital humanities.",
+            period: "2024 – Present",
+            title: "Doctoral Research and International Experience",
+            text: "PhD candidate in Innovation in Educational Technologies at PPgITE/IMD/UFRN, with a visiting research period at the University of Bristol as a Visiting Research Student.",
           },
           {
-            period: "2024 — present",
-            title: "PhD in Innovation in Educational Technologies",
-            text: "Research on Virtual Reality game design for History education in basic education.",
+            period: "2016 – 2017 / 2020 – 2021",
+            title: "Master’s Degrees",
+            text: "Master’s degree in Anthropology from the Federal University of Paraíba and Master’s degree in Innovation in Educational Technologies from the Federal University of Rio Grande do Norte.",
           },
           {
-            period: "2023",
-            title: "Apple Distinguished Educator",
-            text: "Recognition for creative and innovative uses of digital technologies in pedagogical practice.",
+            period: "2025",
+            title: "Postgraduate Specialisation",
+            text: "Postgraduate specialisation in Active Learning Methodologies from FABRAS.",
           },
           {
-            period: "2021",
-            title: "Master’s degree and educational product",
-            text: "Development of an educational RPG about the Porrajmos as a resource for History teaching.",
+            period: "2012 - 2015",
+            title: "Undergraduate Degree",
+            text: "Bachelor’s degree in History Education from the Federal University of Rio Grande do Norte.",
           },
         ],
     projects: isPt
