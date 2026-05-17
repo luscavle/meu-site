@@ -166,22 +166,22 @@ export function getPageContent(isPt) {
           {
             icon: Layers3,
             title: "Immersive technologies",
-            description: "Research and development of Virtual, Augmented, and Mixed Reality experiences for educational and cultural contexts.",
+            description: "Research and development of Virtual Reality experiences for educational contexts.",
           },
           {
             icon: Gamepad2,
             title: "Games and learning",
-            description: "Creation of educational games, interactive narratives, and experiences based on inquiry, authorship, and active participation.",
+            description: "Development of educational games and gamified learning experiences.",
           },
           {
             icon: BookOpen,
             title: "History education",
-            description: "Use of sources, heritage, narratives, and digital technologies to build meaningful ways of engaging with the past.",
+            description: "Use of active learning methodologies and educational technologies in History teaching.",
           },
           {
             icon: Globe2,
             title: "Digital humanities",
-            description: "Intersection between culture, memory, heritage, academic research, and digital production in connected environments.",
+            description: "Intersection of culture, memory, heritage, academic research and digital production in connected environments.",
           },
         ],
     publications: isPt
