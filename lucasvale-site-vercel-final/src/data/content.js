@@ -425,14 +425,13 @@ export function getPageContent(isPt) {
         : "Artigos, revisões sistemáticas, trabalhos em eventos e pesquisas desenvolvidas nas áreas de Educação, História e Tecnologias Imersivas.",
       details: isPt ? "Ver detalhes" : "View details",
 
-    projectsEyebrow: isPt ? "Práticas educacionais" : "Educational practices",
+    projectsEyebrow: isPt ? "Atuação Educacional" : "Educational practices",
 projectsTitle: isPt
-  ? "Projetos e ações em contextos educacionais."
-  : "Projects and initiatives in educational contexts.",
+  ? "Atuação, produção e reconhecimento profissional."
+  : "Professional work, production and recognition.",
 projectsText: isPt
-  ? "Registros de atividades desenvolvidas no ensino, na formação de professores, em eventos educacionais e na criação de recursos didáticos."
-  : "Records of activities developed in teaching, teacher education, educational events, and the creation of didactic resources.",
-
+   ? "Experiências relacionadas ao ensino, formação docente, palestras, tecnologias educacionais, criação de jogos e produção de recursos voltados à educação."
+  : "Experiences related to teaching, teacher education, lectures, educational technologies, game development and the production of resources for education.",
       contactTitle: isPt
         ? "Vamos conversar sobre educação, VR e pesquisa?"
         : "Let’s talk about education, VR, and research?",
