@@ -188,7 +188,7 @@ export const projects = [
   },
   {
     title: "Autoria de livros na área da educação",
-    category: "Publicação",
+    category: "Livro",
     image: "/livro.jpg",
     description:
       "Autor do livro Educação (Cri)Ativa: um guia de estratégias para aulas incríveis, voltado ao desenvolvimento de práticas pedagógicas mais criativas, participativas e conectadas às demandas contemporâneas da educação.",
