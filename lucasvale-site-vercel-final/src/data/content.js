@@ -154,36 +154,42 @@ export const projects = [
   {
     title: "Apple Distinguished Educator",
     category: "Reconhecimento profissional",
+    image: "/ade.jpg",
     description:
       "Reconhecimento internacional recebido em 2023 pela atuação com tecnologias educacionais, inovação pedagógica e integração de recursos digitais em contextos de ensino.",
   },
   {
     title: "Palestras e eventos",
     category: "Divulgação e formação",
+    image: "/palestra.jpg",
     description:
       "Participação em eventos educacionais com palestras sobre Realidade Virtual, aprendizagem imersiva, inovação pedagógica e tecnologias educacionais.",
   },
   {
     title: "Formação de professores",
     category: "Desenvolvimento docente",
+    image: "/formacao.jpg",
     description:
       "Atuação em formações docentes voltadas ao uso pedagógico de tecnologias digitais, metodologias ativas e práticas educacionais inovadoras.",
   },
   {
     title: "Práticas em sala de aula",
     category: "Ensino e aprendizagem",
+    image: "/aulas-tecnologia.jpg",
     description:
       "Atuação docente na Educação Básica, com desenvolvimento de aulas, projetos interdisciplinares e estratégias pedagógicas que integram História, cultura digital e tecnologias educacionais.",
   },
   {
     title: "Criação de jogos educacionais",
     category: "Jogo educacional",
+    image: "/birkenau.jpg",
     description:
       "Desenvolvimento de jogos e experiências interativas voltadas ao ensino. Entre os projetos desenvolvidos está o RPG educacional A Última Canção de Birkenau, criado no contexto do mestrado para abordar o genocídio cigano no ensino de História.",
   },
   {
     title: "Autoria de livros na área da educação",
     category: "Publicação",
+    image: "/livro.jpg",
     description:
       "Autor do livro Educação (Cri)Ativa: um guia de estratégias para aulas incríveis, voltado ao desenvolvimento de práticas pedagógicas mais criativas, participativas e conectadas às demandas contemporâneas da educação.",
   },
