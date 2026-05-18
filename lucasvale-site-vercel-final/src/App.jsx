@@ -30,7 +30,7 @@ export default function App() {
       { id: "sobre", label: lang === "pt" ? "Sobre" : "About" },
       { id: "pesquisa", label: lang === "pt" ? "Pesquisa" : "Research" },
       { id: "publicacoes", label: lang === "pt" ? "Publicações" : "Publications" },
-      { id: "projetos", label: lang === "pt" ? "Projetos" : "Projects" },
+      { id: "projetos", label: lang === "pt" ? "Atuação" : "Work" },
       { id: "contato", label: lang === "pt" ? "Contato" : "Contact" },
     ],
     [lang]
