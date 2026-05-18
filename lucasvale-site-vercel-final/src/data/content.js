@@ -369,6 +369,7 @@ export function getPageContent(isPt) {
         title: "Apple Distinguished Educator",
         category: "Professional recognition",
         image: "/ade.jpg",
+        link: "https://www.instagram.com/p/CthdRoav26u/?igsh=MWxxaHEwODd6dDNqNg==",
         description:
           "International recognition received in 2023 for work with educational technologies, pedagogical innovation, and the integration of digital resources in teaching contexts.",
       },
@@ -376,6 +377,7 @@ export function getPageContent(isPt) {
         title: "Lectures and events",
         category: "Dissemination and training",
         image: "/palestra.jpg",
+        link: "https://www.instagram.com/reel/DMlMWHZpG1_/?igsh=bGEwZWc1Z2RsZm5w",
         description:
           "Participation in educational events with lectures on Virtual Reality, immersive learning, pedagogical innovation, and educational technologies.",
       },
@@ -383,6 +385,7 @@ export function getPageContent(isPt) {
         title: "Teacher training",
         category: "Professional development",
         image: "/formacao.jpg",
+        link: "https://www.instagram.com/reel/DFOZdNyuY80/?igsh=MWJhdDNtazFvYXVhNg==",
         description:
           "Teacher education initiatives focused on the pedagogical use of digital technologies, active methodologies, and innovative educational practices.",
       },
@@ -390,6 +393,7 @@ export function getPageContent(isPt) {
         title: "Classroom practice",
         category: "Teaching and learning",
         image: "/aulas-tecnologia.jpg",
+        link: "https://www.instagram.com/reel/C8Z2vv_xPrU/?igsh=MWZha3U5cnpsNXpydA==",
         description:
           "Teaching practice in Basic Education, with the development of lessons, interdisciplinary projects, and pedagogical strategies integrating History, digital culture, and educational technologies.",
       },
@@ -397,6 +401,7 @@ export function getPageContent(isPt) {
         title: "Educational game development",
         category: "Educational game",
         image: "/birkenau.jpg",
+        link: "https://pluni.imd.ufrn.br/pluni/165/visualizarProduto",
         description:
           "Development of games and interactive experiences for teaching. One of these projects is the educational RPG A Última Canção de Birkenau, created during my master’s research to address the Romani genocide in History education.",
       },
@@ -404,6 +409,7 @@ export function getPageContent(isPt) {
         title: "Book authorship in education",
         category: "Publication",
         image: "/livro.jpg",
+        link: "https://www.amazon.co.uk/Educa%C3%A7%C3%A3o-Cri-Ativa-estrat%C3%A9gias-Portuguese-ebook/dp/B0CW19W71S",
         description:
           "Author of the book Educação (Cri)Ativa: um guia de estratégias para aulas incríveis, focused on creative, participatory, and contemporary pedagogical practices.",
       },
