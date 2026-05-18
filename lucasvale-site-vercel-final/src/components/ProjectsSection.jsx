@@ -13,7 +13,7 @@ export default function ProjectsSection({ page }) {
           text={page.ui.projectsText}
         />
 
-        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
+       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
           {page.projects.map((project, index) => (
             <motion.div
               key={project.title}
