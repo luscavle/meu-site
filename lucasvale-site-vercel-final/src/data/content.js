@@ -357,27 +357,51 @@ export function getPageContent(isPt) {
         ],
 
     projects: isPt
-      ? projects
-      : [
-          {
-            title: "Guardião do Seridó",
-            category: "Virtual Reality game",
-            description:
-              "Virtual Reality game focused on valuing Indigenous cultural heritage and supporting History education in lower secondary school.",
-          },
-          {
-            title: "Anne Frank House VR",
-            category: "Case study",
-            description:
-              "Analysis of sensitive pasts, presence, spatiality, and historical interpretation in immersive environments.",
-          },
-          {
-            title: "Bridge Virtual Exchange Hub",
-            category: "Virtual exchange",
-            description:
-              "Proposal to connect schools from different countries through Virtual Reality, gamification, and global challenges.",
-          },
-        ],
+  ? projects
+  : [
+      {
+        title: "Apple Distinguished Educator",
+        category: "Professional recognition",
+        image: "/ade.jpg",
+        description:
+          "International recognition received in 2023 for work with educational technologies, pedagogical innovation, and the integration of digital resources in teaching contexts.",
+      },
+      {
+        title: "Lectures and events",
+        category: "Dissemination and training",
+        image: "/palestra.jpg",
+        description:
+          "Participation in educational events with lectures on Virtual Reality, immersive learning, pedagogical innovation, and educational technologies.",
+      },
+      {
+        title: "Teacher training",
+        category: "Professional development",
+        image: "/formacao.jpg",
+        description:
+          "Teacher education initiatives focused on the pedagogical use of digital technologies, active methodologies, and innovative educational practices.",
+      },
+      {
+        title: "Classroom practice",
+        category: "Teaching and learning",
+        image: "/aulas-tecnologia.jpg",
+        description:
+          "Teaching practice in Basic Education, with the development of lessons, interdisciplinary projects, and pedagogical strategies integrating History, digital culture, and educational technologies.",
+      },
+      {
+        title: "Educational game development",
+        category: "Educational game",
+        image: "/birkenau.jpg",
+        description:
+          "Development of games and interactive experiences for teaching. One of these projects is the educational RPG A Última Canção de Birkenau, created during my master’s research to address the Romani genocide in History education.",
+      },
+      {
+        title: "Book authorship in education",
+        category: "Publication",
+        image: "/livro.jpg",
+        description:
+          "Author of the book Educação (Cri)Ativa: um guia de estratégias para aulas incríveis, focused on creative, participatory, and contemporary pedagogical practices.",
+      },
+    ],
 
     ui: {
       badge: isPt
