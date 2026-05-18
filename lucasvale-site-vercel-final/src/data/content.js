@@ -152,22 +152,32 @@ export const experience = [
 
 export const projects = [
   {
-    title: "Guardião do Seridó",
-    category: "Jogo em Realidade Virtual",
+    title: "A Última Canção de Birkenau",
+    category: "Jogo educacional",
+    image: "/birkenau.jpg",
     description:
-      "Jogo em Realidade Virtual voltado à valorização do patrimônio cultural indígena e ao ensino de História nos anos finais do Ensino Fundamental.",
+      "RPG educacional desenvolvido no mestrado, voltado ao ensino de História e à abordagem do genocídio cigano no contexto da Segunda Guerra Mundial.",
   },
   {
-    title: "Anne Frank House VR",
-    category: "Estudo de caso",
+    title: "Palestras e eventos",
+    category: "Divulgação e formação",
+    image: "/palestra.jpg",
     description:
-      "Análise sobre representação de passados sensíveis, presença, espacialidade e interpretação histórica em ambientes imersivos.",
+      "Participação em eventos educacionais com palestras sobre Realidade Virtual, aprendizagem imersiva, inovação pedagógica e tecnologias educacionais.",
   },
   {
-    title: "Bridge Virtual Exchange Hub",
-    category: "Intercâmbio virtual",
+    title: "Formação de professores",
+    category: "Desenvolvimento docente",
+    image: "/formacao.jpg",
     description:
-      "Proposta de conexão entre escolas de diferentes países por meio de experiências em Realidade Virtual, gamificação e desafios globais.",
+      "Atuação em formações docentes voltadas ao uso pedagógico de tecnologias digitais, metodologias ativas e práticas educacionais inovadoras.",
+  },
+  {
+    title: "Práticas em sala de aula",
+    category: "Ensino e aprendizagem",
+    image: "/aulas-tecnologia.jpg",
+    description:
+      "Atuação docente na Educação Básica, com desenvolvimento de aulas, projetos interdisciplinares e estratégias pedagógicas que integram História, cultura digital e tecnologias educacionais.",
   },
 ];
 
@@ -401,13 +411,13 @@ export function getPageContent(isPt) {
         : "Artigos, revisões sistemáticas, trabalhos em eventos e pesquisas desenvolvidas nas áreas de Educação, História e Tecnologias Imersivas.",
       details: isPt ? "Ver detalhes" : "View details",
 
-      projectsEyebrow: isPt ? "Projetos" : "Projects",
-      projectsTitle: isPt
-        ? "Jogos, projetos digitais e iniciativas em desenvolvimento."
-        : "Games, digital projects, and initiatives in progress.",
-      projectsText: isPt
-        ? "Projetos que conectam pesquisa, escola, cultura e criação digital."
-        : "Projects connecting research, school, culture, and digital creation.",
+    projectsEyebrow: isPt ? "Práticas educacionais" : "Educational practices",
+projectsTitle: isPt
+  ? "Projetos e ações em contextos educacionais."
+  : "Projects and initiatives in educational contexts.",
+projectsText: isPt
+  ? "Registros de atividades desenvolvidas no ensino, na formação de professores, em eventos educacionais e na criação de recursos didáticos."
+  : "Records of activities developed in teaching, teacher education, educational events, and the creation of didactic resources.",
 
       contactTitle: isPt
         ? "Vamos conversar sobre educação, VR e pesquisa?"
