@@ -31,14 +31,25 @@ export default function ContactSection({ page }) {
                 </div>
               </div>
 
-              <div className="grid grid-cols-2 gap-4">
-                <button className="flex items-center justify-center gap-2 rounded-3xl bg-white px-5 py-4 font-semibold text-slate-950 transition hover:scale-[1.03]">
-                  <FileText size={18} /> Lattes
-                </button>
-                <button className="flex items-center justify-center gap-2 rounded-3xl border border-white/20 bg-white/10 px-5 py-4 font-semibold text-white transition hover:bg-white/20">
-                  <Presentation size={18} /> CV
-                </button>
-              </div>
+             <div className="grid grid-cols-2 gap-4">
+  <a
+    href="http://lattes.cnpq.br/8698223241960222"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center justify-center gap-2 rounded-3xl bg-white px-5 py-4 font-semibold text-slate-950 transition hover:scale-[1.03]"
+  >
+    <FileText size={18} /> Lattes
+  </a>
+
+  <a
+    href="https://drive.google.com/file/d/1qkECxQ9ldLHiu9bHHfH9D1gGOeU8UWaM/view?usp=sharing"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center justify-center gap-2 rounded-3xl border border-white/20 bg-white/10 px-5 py-4 font-semibold text-white transition hover:bg-white/20"
+  >
+    <Presentation size={18} /> CV
+  </a>
+</div>
             </div>
           </div>
         </GlassCard>
