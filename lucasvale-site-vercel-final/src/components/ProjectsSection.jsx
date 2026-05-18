@@ -36,9 +36,14 @@ export default function ProjectsSection({ page }) {
                       {project.category}
                     </span>
 
-                    <div className="flex h-10 w-10 items-center justify-center rounded-full bg-white/10 transition group-hover:bg-white/20">
-                      <ArrowUpRight size={17} />
-                    </div>
+                    <a
+  href={project.link}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="flex h-10 w-10 items-center justify-center rounded-full bg-white/10 transition group-hover:bg-white/20"
+>
+  <ArrowUpRight size={17} />
+</a>
                   </div>
 
                   <h3 className="text-xl font-semibold tracking-tight">
