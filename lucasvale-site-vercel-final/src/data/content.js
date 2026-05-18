@@ -394,11 +394,11 @@ export function getPageContent(isPt) {
 
       publicationsEyebrow: isPt ? "Publicações" : "Publications",
       publicationsTitle: isPt
-        ? "Artigos, revisões e produções acadêmicas."
-        : "Articles, reviews, and academic work.",
+        ? "Produção acadêmica e científica."
+        : "Academic and scientific production.",
       publicationsText: isPt
-        ? "Uma seleção de publicações, trabalhos em eventos e produções acadêmicas."
-        : "A selection of publications, conference papers, and academic work.",
+        ? "Artigos, revisões sistemáticas, trabalhos em eventos e pesquisas desenvolvidas nas áreas de Educação, História e Tecnologias Imersivas."
+        : "Artigos, revisões sistemáticas, trabalhos em eventos e pesquisas desenvolvidas nas áreas de Educação, História e Tecnologias Imersivas.",
       details: isPt ? "Ver detalhes" : "View details",
 
       projectsEyebrow: isPt ? "Projetos" : "Projects",
