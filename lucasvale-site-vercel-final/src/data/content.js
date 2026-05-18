@@ -477,11 +477,11 @@ projectsText: isPt
 
       location: isPt ? "Localização" : "Location",
       footerLeft: isPt
-        ? "© 2026 Lucas Vale. Pesquisa, educação e Realidade Virtual."
-        : "© 2026 Lucas Vale. Research, education, and Virtual Reality.",
+        ? "© 2026 Lucas Vale."
+        : "© 2026 Lucas Vale.",
       footerRight: isPt
-        ? "Desenvolvido com estética liquid glass, animações suaves e layout responsivo."
-        : "Designed with a liquid glass aesthetic, smooth animations, and a responsive layout.",
+        ? "Desenvolvido com apoio do ChatGPT — GPT-5.5."
+        : "Developed with support from ChatGPT — GPT-5.5.",
     },
   };
 }
