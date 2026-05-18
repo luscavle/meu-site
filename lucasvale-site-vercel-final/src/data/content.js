@@ -155,6 +155,7 @@ export const projects = [
     title: "Apple Distinguished Educator",
     category: "Reconhecimento profissional",
     image: "/ade.jpg",
+    link: "https://www.instagram.com/p/CthdRoav26u/?igsh=MWxxaHEwODd6dDNqNg==",
     description:
       "Reconhecimento internacional recebido em 2023 pela atuação com tecnologias educacionais, inovação pedagógica e integração de recursos digitais em contextos de ensino.",
   },
@@ -162,6 +163,7 @@ export const projects = [
     title: "Palestras e eventos",
     category: "Divulgação e formação",
     image: "/palestra.jpg",
+    link: "https://www.instagram.com/reel/DMlMWHZpG1_/?igsh=bGEwZWc1Z2RsZm5w",
     description:
       "Participação em eventos educacionais com palestras sobre Realidade Virtual, aprendizagem imersiva, inovação pedagógica e tecnologias educacionais.",
   },
@@ -169,6 +171,7 @@ export const projects = [
     title: "Formação de professores",
     category: "Desenvolvimento docente",
     image: "/formacao.jpg",
+    link: "https://www.instagram.com/reel/DFOZdNyuY80/?igsh=MWJhdDNtazFvYXVhNg==",
     description:
       "Atuação em formações docentes voltadas ao uso pedagógico de tecnologias digitais, metodologias ativas e práticas educacionais inovadoras.",
   },
@@ -176,6 +179,7 @@ export const projects = [
     title: "Práticas em sala de aula",
     category: "Ensino e aprendizagem",
     image: "/aulas-tecnologia.jpg",
+    link: "https://www.instagram.com/reel/C8Z2vv_xPrU/?igsh=MWZha3U5cnpsNXpydA==",
     description:
       "Atuação docente na Educação Básica, com desenvolvimento de aulas, projetos interdisciplinares e estratégias pedagógicas que integram História, cultura digital e tecnologias educacionais.",
   },
@@ -183,6 +187,7 @@ export const projects = [
     title: "Criação de jogos educacionais",
     category: "Jogo educacional",
     image: "/birkenau.jpg",
+    link: "https://pluni.imd.ufrn.br/pluni/165/visualizarProduto",
     description:
       "Desenvolvimento de jogos e experiências interativas voltadas ao ensino. Entre os projetos desenvolvidos está o RPG educacional A Última Canção de Birkenau, criado no contexto do mestrado para abordar o genocídio cigano no ensino de História.",
   },
@@ -190,6 +195,7 @@ export const projects = [
     title: "Autoria de livros na área da educação",
     category: "Livro",
     image: "/livro.jpg",
+    link: "https://www.amazon.co.uk/Educa%C3%A7%C3%A3o-Cri-Ativa-estrat%C3%A9gias-Portuguese-ebook/dp/B0CW19W71S",
     description:
       "Autor do livro Educação (Cri)Ativa: um guia de estratégias para aulas incríveis, voltado ao desenvolvimento de práticas pedagógicas mais criativas, participativas e conectadas às demandas contemporâneas da educação.",
   },
